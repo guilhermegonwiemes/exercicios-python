@@ -1,7 +1,7 @@
 # exercicios-python
 
 ## Dados:
-Estudante: Guilherme Gon WIemes
+Estudante: Guilherme Gon Wiemes
 Turma: DSM03 - 2025 - 2ª Série
 Unidade Curricular: Programação de Aplicativos
 
@@ -73,7 +73,7 @@ Este repositório contém 25 exercícios em python, feitos para uma atividade es
   Esse exercício escreve os números de 1 até 20 na tela utilizando um laço **for**.
 
 ### ex17.py
-  Esse exercício escreve apenas os números **pares** de 1 até 20 utilizando um laço **for**.
+  Esse exercício escreve apenas os números **pares** de 2 até 20 utilizando um laço **for**.
 
 ### ex18.py
   Esse exercício soma os números de 1 até 100 utilizando um laço **for**.
