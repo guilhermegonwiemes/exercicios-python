@@ -28,43 +28,73 @@ Este repositório contém 25 exercícios em python, feitos para uma atividade es
   Este exercício pede ao usuário dois inputs, um de nome e um de idade, então, exibe-os em linhas separadas.
 
 ### ex02.py
-  Este exercício pede ao usuário 2 inputs de números, então, exibe a soma deles na tela.
+  Este exercício pede ao usuário 2 inputs de números, então, exibe a **soma** deles na tela.
 
 ### ex03.py
-  Este exercício pede que o usuário informe o raio de um círculo, então, o programa calcula sua área
+  Este exercício pede que o usuário informe o raio de um círculo, então, o programa **calcula sua área**.
 
 ### ex04.py
-  Este exercício pede ao usuário uma temperatura em graus Celcius (ºC), então, converte-a para graus Fahrenheit (ºF) e exibe-a na tela.
+  Este exercício pede ao usuário uma temperatura em graus **Celcius (ºC)**, então, **converte-a** para graus **Fahrenheit (ºF)** e exibe-a na tela.
 
 ### ex05.py
-  Este exercício pede ao usuário o preço de um produto e a quantidade à ser comprada, então, exibe na tela o custo total para essa compra.
+  Este exercício pede ao usuário o preço de um produto e a quantidade à ser comprada, então, exibe na tela o **custo total** para essa compra.
 
 ### ex06.py
-  Este exercício pede ao usuário um número e exibe na tela se ele é par ou ímpar.
+  Este exercício pede ao usuário um número e exibe na tela se ele é **par ou ímpar**.
 
 ### ex07.py
   Este exercício pede 2 números ao usuário, então, exibe qual deles é maior, ou, exibe que são iguais.
 
 ### ex08.py
-  Este exercício pede um número para o usuário, então classifica-o como positivo, negativo ou 0 e exibe o resultado na tela.
+  Este exercício pede um número para o usuário, então classifica-o como **positivo, negativo ou 0** e exibe o resultado na tela.
 
 ### ex09.py
   Este exercício pede ao usuário a média de notas de um aluno, então classifica-o como reprovado, em recuperação ou aprovado, e exibe o resultado na tela.
 
 ### ex10.py
-  Este exercício pede que o usuáro digite uma idade, então, o programa responde se uma pessoa com aquela idade pode ou não votar.
+  Este exercício pede que o usuáro digite uma idade, então, o programa responde se uma pessosa com aquela idade pode ou não votar.
 
 ### ex11.py
   Este exercício repete os números de 1 até 10 (incluindo o 1 e o 10), cada um em uma linha no terminal.
 
 ### ex12.py
-  Este exercício pede que o usuário dê input de quantos números o usuário quiser, parando apenas com input 0, então, o programa exibe a soma dos números que o usuário enviou.
+  Este exercício pede que o usuário dê input de quantos números o usuário quiser, parando apenas com input 0, então, o programa exibe a **soma** dos números que o usuário enviou.
 
 ### ex13.py
-  Esse exercício pede que o usuário digite a senha, liberando acesso apenas ao digitar a senha "senai123".
+  Esse exercício pede que o usuário digite a senha, liberando acesso apenas ao **digitar a senha** "senai123".
 
 ### ex14.py
-  Esse exercício pede que o usuário dê input de um número, então, exibe sua tabuada do 1 ao 10 na tela.
+  Esse exercício pede que o usuário dê input de um número, então, exibe sua **tabuada** do 1 ao 10 na tela.
 
 ### ex15.py
-  
+  Esse exercício pede que o usuário dê vários inputs de números, parando apenas ao digitar 0, então, exibe na tela quantos números **positivos** foram digitados.
+
+### ex16.py
+  Esse exercício escreve os números de 1 até 20 na tela utilizando um laço **for**.
+
+### ex17.py
+  Esse exercício escreve apenas os números **pares** de 1 até 20 utilizando um laço **for**.
+
+### ex18.py
+  Esse exercício soma os números de 1 até 100 utilizando um laço **for**.
+
+### ex19.py
+  Esse exercício calcula o **fatorial** de um número usando um laço **for**.
+
+### ex20.py
+  Esse exercício exibe da tela os números de 1 até 10 em ordem **decrescente** utilizando um laço **for**.
+
+### ex21.py
+  Esse exercício cria um array com 5 números, e exibe cada um em uma linha da tela. (não fiz com for, pois, queria fazer alternar as cores, e preferi fazer em uma única linha).
+
+### ex22.py
+  Esse exercício cria um array e exibe a **soma** de seus números na tela.
+
+### ex23.py
+  Esse exercício cria um array e exibe na tela seu **maior valor**.
+
+### ex24.py
+  Esse exercício começa com o array [5, 12, 8, 20, 3, 15], então, exibe na tela quais dos números são **maiores do que 10**.
+
+### ex25.py
+  Esse exercício começa com o array [3, 7, 1, 9, 4], então, exibe na tela o array com seus elementos de forma **inversa** (primeiro vira último, etc).
