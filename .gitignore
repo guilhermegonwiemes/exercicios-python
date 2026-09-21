@@ -1,0 +1,14 @@
+# pasta de cache criada pelo python de forma automática
+__pycache__/
+
+# arquivos compilados do python
+*.pyc
+
+# arquivos de log
+*.log
+
+# bibliotecas instaladas no ambiente virtual
+venv/
+
+# arquivos do visual studio code
+.vscode/
